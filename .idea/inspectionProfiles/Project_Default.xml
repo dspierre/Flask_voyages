@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="teste.password3" />
+          <option value="teste.username" />
+          <option value="teste.password" />
+          <option value="teste2.*" />
+          <option value="reco_system.n" />
+          <option value="reco_system.m" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
